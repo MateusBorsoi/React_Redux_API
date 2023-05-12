@@ -1,0 +1,84 @@
+{
+  "projetos": [
+    {
+      "name": "Number Two",
+      "budget": "554",
+      "categoria": {
+        "id": "3",
+        "name": "Projeto"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 3
+    },
+    {
+      "name": "Lattes 2",
+      "budget": "6000",
+      "categoria": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5203,
+      "service": [
+        {
+          "name": "lattes",
+          "cost": "23",
+          "description": "Manutenção do software Lattes 2 V3",
+          "id": "7380ffd5-d740-4e3a-a261-971f6802a8ae"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Number One",
+      "budget": "524545",
+      "categoria": {
+        "id": "3",
+        "name": "Projeto"
+      },
+      "cost": 6000,
+      "service": [
+        {
+          "name": "Contratar Dev Python",
+          "cost": "6000",
+          "description": "Contratação Dev Python, criação de chat com AI",
+          "id": "17ef8460-f027-4941-9beb-5707a02f617f"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Vaccum Full Analyze",
+      "budget": "989899",
+      "categoria": {
+        "id": "4",
+        "name": "Conceito"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 6
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Projeto"
+    },
+    {
+      "id": 4,
+      "name": "Conceito"
+    },
+    {
+      "id": 5,
+      "name": "Planejamento"
+    }
+  ]
+}

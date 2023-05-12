@@ -1,0 +1,16 @@
+.helloworldContainer{
+    text-align: center;
+    color: lightcoral;
+    background-color: rgb(112, 112, 97);
+    border: 1px solid;
+    border-radius: 3%;
+   
+}
+
+.helloworldContent{
+    color: coral;
+    background-color: aquamarine;
+    margin: 0;
+
+
+}

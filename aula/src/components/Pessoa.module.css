@@ -1,0 +1,35 @@
+.pessoaContainer {
+    background-color: bisque;
+    color: brown;
+    height: 430px;
+    border-radius: 3% ;
+    border: 2px solid;
+    border-color: coral;
+    
+
+}
+
+
+.pessoaTxt{
+    margin: 20px;
+}
+
+.pessoaContent {
+    background-color: crimson;
+    margin: 20px;
+    color: rgb(255, 255, 255);
+    border: 3px solid;
+    border-color: rgba(0, 0, 0, 0.829);
+    border-radius: 5px;
+    text-decoration: double;
+}
+
+.pessoaImg {
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    border-radius: 50px;
+    margin: 20px;
+    border-color: cadetblue;
+
+}

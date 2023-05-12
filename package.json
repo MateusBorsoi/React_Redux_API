@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.16",
+    "git": "^0.1.5",
+    "prop-types": "^15.8.1"
+  }
+}
