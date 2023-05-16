@@ -1,0 +1,33 @@
+.container_users {
+   align-items: center;
+   justify-content: center;
+   width: 100%;
+   width: 100%;
+}
+
+.users_header {
+    text-align: center;
+    padding: .3em;
+    margin: 10px;
+    display: block;
+    align-items: center;
+
+}
+
+
+.div_users {
+    display: inline-block;
+    width: auto;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: .3em;
+    margin: 10px;
+    color: black;
+
+}
+
+.no_users{
+    text-align: center;
+}
